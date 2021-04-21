@@ -1,0 +1,125 @@
+##[class*=adblock-]
+##[id*=ad-netboard]
+##.topboard-container + *:has(#toggleBlockButton)
+
+www.aftenbladet.no##.df-article:has(.df-widget.df-width-100 .ad)
+www.aftenbladet.no##.oca.realestate
+www.aftenbladet.no##.widget-matrix-tags.widgets
+www.aftenbladet.no###netboard_2
+www.aftenbladet.no##.df-article-content:has(.df-width-100 > .ad)
+www.aftenbladet.no##.netboard-ad
+www.aftenbladet.no###netboard_1
+www.aftenbladet.no###oil-prices-widget
+www.aftenbladet.no##.stripe-promo.cm-stripe
+www.aftenbladet.no###topboard
+www.aftenbladet.no##.widget-siste
+www.aftenbladet.no##.widget-mest
+www.aftenbladet.no##.widget-siste-widget
+www.aftenbladet.no##.widget-blog
+www.aftenbladet.no###widget-perks-frontpage
+www.aftenbladet.no##.main-content > .sharing
+! 18.12.2019 https://www.aftenbladet.no
+! 18.12.2019 https://www.aftenbladet.no
+www.aftenbladet.no###adPlacement_3
+www.aftenbladet.no###adPlacement_1
+www.aftenbladet.no###adPlacement_2
+www.aftenbladet.no###adPlacement_4
+www.aftenbladet.no###adPlacement_5
+www.aftenbladet.no###adPlacement_6
+www.aftenbladet.no###adPlacement_7
+www.aftenbladet.no###adPlacement_8
+www.aftenbladet.no###adPlacement_9
+www.aftenbladet.no###adPlacement_10,
+##[id^="adPlacement"]:upward(1)
+||comments.aftenbladet.no/$subdocument
+www.aftenbladet.no###related-articles
+www.aftenbladet.no##.article__labels
+www.aftenbladet.no##.slider-card.podcast-card
+www.aftenbladet.no##.ad
+www.aftenbladet.no##.vertical-static-ad
+||www.finn.no/distribution-carousel$object
+www.aftenbladet.no##.read-article-teaser
+www.aftenbladet.no##.mm-box1-container:has(#ac-kodeks)
+! 2020-12-22 https://www.aftenbladet.no
+www.aftenbladet.no###sa-front-boligrobot
+www.aftenbladet.no###podcast-frontwidget
+www.aftenbladet.no##.perks-container.widgets
+www.aftenbladet.no###webcam-frontpage
+###sa-minneord
+
+! 2021-01-14 https://www.aftenbladet.no
+www.aftenbladet.no##[id^="adPlacement"]:upward(1)
+
+! 2021-03-26 https://www.aftenbladet.no
+www.aftenbladet.no##[data-ad-subtype]:upward(1)
+www.aftenbladet.no###most-read-articles
+www.aftenbladet.no###recommended
+www.aftenbladet.no###most-commented-articles
+
+! 2021-04-15 https://lofi.cafe
+lofi.cafe###crt-lines
+
+||www.finn.no/distribution-carousel
+||comments.aftenbladet.no/
+||ocacache-front.schibsted.tech/job.htm$subdocument
+||cmmnts.i.bt.no/
+||api.detskjer.aftenbladet.no/widget/commercial/sa$subdocument
+
+www.tv2.no##[id*=aabl-container]
+www.tv2.no##.bg-blue-light
+www.tv2.no##.adunit-wrapper
+www.tv2.no###aabl-container-s
+www.tv2.no##.bg-tv2-sport.tv2-articlelist-contentbox.boxwrapper
+www.tv2.no##.row:has(iframe)
+www.tv2.no##.large-12.bg-blue-light.row
+www.tv2.no##.bg-blue-light
+www.tv2.no##[data-adslot]
+
+www.nrk.no###top
+
+www.vg.no##._footer_30_footer
+www.vg.no##[id*=ad-]
+www.vg.no##[id*=external-links]
+www.vg.no##[class*=vgpluss]
+www.vg.no###top-bar
+www.vg.no###pluss-teaser
+www.vg.no###wid-aside-taxonomy
+www.vg.no###article-bottom-elements
+www.vg.no###page-footer-desktop
+www.vg.no##.navbar-content
+www.vg.no##.partner-studio
+www.vg.no##.inline-ad-text
+www.vg.no##.reg-grid-main > .reg-tools
+www.vg.no##.comments-icon
+www.vg.no##.vg-folger
+www.vg.no##.list.related.articles
+www.vg.no##.vgtv-full
+www.vg.no##.article-extract:has(.df-img-skin-pluss)
+www.vg.no##.article-content:has(a[href^="https://soundcloud.com/vgno/"])
+www.vg.no##.ad-wrapper
+www.vg.no##a[data-stats-string^="AdblockCampaign"]
+www.vg.no##.reg-grid-container > *:has(button[data-stats-string="Adblock::OpenPopup"])
+||www.godt.no/embed/$subdocument
+||www.finn.no/distribution-front/external/carousel$subdocument
+
+www.vg.no##[id*=adPlacement]
+www.vg.no##.board_ads
+www.vg.no###coupon-codes
+
+www.tu.no##.feed-tu-jobs
+www.tu.no##.subscription-promo-box
+www.tu.no##.frontpage-top-ad-wrap
+
+www.digi.no##article:not(.editorial-article):has([data-headline-prefix^="Annonse"])
+www.digi.no##.dab-box-top
+www.digi.no##.subscription-promo-box
+www.digi.no##[class*=job-feed]
+www.digi.no##.col-full-width:has(.feed-tu-jobs)
+www.digi.no##.products-carousel
+www.digi.no##.open-sans.custom-social-share
+www.digi.no##.sticky-social-share
+www.digi.no##aside
+www.digi.no##.newsletter-promo-box
+
+twitter.com##div > article:has(span:has-text(/^Promotert/))
+##[data-testid=sidebarColumn]
