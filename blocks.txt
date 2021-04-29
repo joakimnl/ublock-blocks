@@ -1,4 +1,5 @@
 ##.schibsted-data-controller
+###data-controller-sticky
 ##[class*=adblock-]
 ##[id*=ad-netboard]
 ##.topboard-container + *:has(#toggleBlockButton)
