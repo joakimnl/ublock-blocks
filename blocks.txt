@@ -4,6 +4,13 @@
 ##[id*=ad-netboard]
 ##.topboard-container + *:has(#toggleBlockButton)
 
+e24.no##.content-marketing
+e24.no##.teaser__preview
+
+||cdn.concert.io/lib/adblock/verge.html$subdocument
+www.theverge.com##.adblock-allowlist-messaging__article-wrapper
+
+www.aftenbladet.no##.article > .article__labels
 www.aftenbladet.no##.df-article:has(.df-widget.df-width-100 .ad)
 www.aftenbladet.no##.oca.realestate
 www.aftenbladet.no##.widget-matrix-tags.widgets
