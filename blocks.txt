@@ -55,6 +55,13 @@ www.aftenbladet.no###podcast-frontwidget
 www.aftenbladet.no##.perks-container.widgets
 www.aftenbladet.no###webcam-frontpage
 ###sa-minneord
+www.aftenbladet.no##[id*="react-root-reels"]
+www.aftenbladet.no##.contentboard-container
+www.aftenbladet.no##.weather-widget-container
+www.aftenbladet.no##.widget-football
+www.aftenbladet.no##.widget-benefits-widget
+www.aftenbladet.no##.widget-bolig
+
 
 ! 2021-01-14 https://www.aftenbladet.no
 www.aftenbladet.no##[id^="adPlacement"]:upward(1)
