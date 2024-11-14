@@ -61,6 +61,7 @@ www.aftenbladet.no##.weather-widget-container
 www.aftenbladet.no##.widget-football
 www.aftenbladet.no##.widget-benefits-widget
 www.aftenbladet.no##.widget-bolig
+www.aftenbladet.no##.hjernetrim-front-widget
 
 
 ! 2021-01-14 https://www.aftenbladet.no
