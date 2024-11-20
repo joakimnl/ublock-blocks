@@ -27,8 +27,6 @@ www.aftenbladet.no##.widget-siste-widget
 www.aftenbladet.no##.widget-blog
 www.aftenbladet.no###widget-perks-frontpage
 www.aftenbladet.no##.main-content > .sharing
-! 18.12.2019 https://www.aftenbladet.no
-! 18.12.2019 https://www.aftenbladet.no
 www.aftenbladet.no###adPlacement_3
 www.aftenbladet.no###adPlacement_1
 www.aftenbladet.no###adPlacement_2
@@ -62,6 +60,19 @@ www.aftenbladet.no##.widget-football
 www.aftenbladet.no##.widget-benefits-widget
 www.aftenbladet.no##.widget-bolig
 www.aftenbladet.no##.hjernetrim-front-widget
+##div.advertory-sa-netboard-wrapper
+
+! Nov 19, 2024 https://www.vg.no
+www.vg.no##[class*=advertory]
+www.vg.no##[class*=partnerstudio]
+www.vg.no##vg-dynamic-widget[data-name="VGTVStories"]
+www.vg.no##.braze-container
+www.vg.no##.article-body > [data-track-id*=tts]
+www.vg.no##section[class*=tip]:has(a[href="https://www.vg.no/tips-oss"])
+www.vg.no##.grouped.aside[role=complementary]
+www.vg.no##[data-track-element-type="Tags"]
+www.vg.no##[class*=aiDisclaimer]
+www.vg.no##section[id=comments]
 
 
 ! 2021-01-14 https://www.aftenbladet.no
@@ -94,34 +105,7 @@ www.tv2.no##[data-adslot]
 
 www.nrk.no###top
 
-www.vg.no##._footer_30_footer
-www.vg.no##[id*=ad-]
-www.vg.no##[id*=external-links]
-www.vg.no##[class*=vgpluss]
-www.vg.no###top-bar
-www.vg.no###pluss-teaser
-www.vg.no###wid-aside-taxonomy
-www.vg.no###article-bottom-elements
-www.vg.no###page-footer-desktop
-www.vg.no##.navbar-content
-www.vg.no##.partner-studio
-www.vg.no##.inline-ad-text
-www.vg.no##.reg-grid-main > .reg-tools
-www.vg.no##.comments-icon
-www.vg.no##.vg-folger
-www.vg.no##.list.related.articles
-www.vg.no##.vgtv-full
-www.vg.no##.article-extract:has(.df-img-skin-pluss)
-www.vg.no##.article-content:has(a[href^="https://soundcloud.com/vgno/"])
-www.vg.no##.ad-wrapper
-www.vg.no##a[data-stats-string^="AdblockCampaign"]
-www.vg.no##.reg-grid-container > *:has(button[data-stats-string="Adblock::OpenPopup"])
-||www.godt.no/embed/$subdocument
-||www.finn.no/distribution-front/external/carousel$subdocument
 
-www.vg.no##[id*=adPlacement]
-www.vg.no##.board_ads
-www.vg.no###coupon-codes
 
 www.tu.no##.feed-tu-jobs
 www.tu.no##.subscription-promo-box
